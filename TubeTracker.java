@@ -13,7 +13,7 @@ public class TubeTracker {
 
 
         ArrayList<Video> videos = new ArrayList<Video>();
-        Playlist playlist1 = new Playlist("https://www.youtube.com/watch?v=i9AbPqybBPc&list=PL1bauNEiHIgyHtNfI-eIZDUfkNlz_TL2Z");
+        Playlist playlist1 = new Playlist(""); // YOUTUBE PLAYLIST URL HERE;
         
              Window window = new Window(videos);
         
